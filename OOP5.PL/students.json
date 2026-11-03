@@ -1,0 +1,57 @@
+[
+  {
+    "LastName": "Kovalenko",
+    "FirstName": "Anna",
+    "Course": 4,
+    "StudentId": "ST001",
+    "HasScholarship": false,
+    "PassportSeries": "AA",
+    "PassportNumber": "123456",
+    "AverageGrade": 75,
+    "IsExpelled": false
+  },
+  {
+    "LastName": "Bondarenko",
+    "FirstName": "Oleh",
+    "Course": 4,
+    "StudentId": "ST002",
+    "HasScholarship": false,
+    "PassportSeries": "AB",
+    "PassportNumber": "234567",
+    "AverageGrade": 55,
+    "IsExpelled": false
+  },
+  {
+    "LastName": "Melnyk",
+    "FirstName": "Olena",
+    "Course": 4,
+    "StudentId": "ST003",
+    "HasScholarship": true,
+    "PassportSeries": "AC",
+    "PassportNumber": "345678",
+    "AverageGrade": 95,
+    "IsExpelled": false
+  },
+  {
+    "LastName": "Shevchenko",
+    "FirstName": "Ivan",
+    "Course": 3,
+    "StudentId": "ST004",
+    "HasScholarship": false,
+    "PassportSeries": "AD",
+    "PassportNumber": "456789",
+    "AverageGrade": 80,
+    "IsExpelled": false
+  },
+  {
+    "LastName": "Tkachenko",
+    "FirstName": "Maksym",
+    "Course": 4,
+    "StudentId": "ST005",
+    "HasScholarship": false,
+    "PassportSeries": "AE",
+    "PassportNumber": "567890",
+    "AverageGrade": 40,
+    "IsExpelled": true
+  }
+]
